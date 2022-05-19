@@ -1,0 +1,1 @@
+panggil = input('Haii, saya Ferdinand panggil aja ')
